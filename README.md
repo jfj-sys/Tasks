@@ -11,4 +11,4 @@
 9. Geek网站复刻 -> https://jfj-sys.github.io/geek.html/web.html
 10. 用js写网页 ->https://jfj-sys.github.io/dazu/index.html
 11. HTTP笔记 -> https://github.com/jfj-sys/Tasks/blob/main/HTTP.md
-12. 计算机基础知识笔记 -> https://github.com/jfj-sys/Tasks/blob/main/计算机基础知识md
+12. 计算机基础知识笔记 -> https://github.com/jfj-sys/Tasks/blob/main/计算机基础知识.md
