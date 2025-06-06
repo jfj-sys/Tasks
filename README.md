@@ -10,3 +10,4 @@
 8. JavaScript学习笔记 -> https://github.com/jfj-sys/Tasks/blob/main/JavaScript学习笔记.md
 9. Geek网站复刻 -> https://jfj-sys.github.io/geek.html/web.html
 10. 用js写网页 ->https://jfj-sys.github.io/dazu/index.html
+11. HTTP笔记 -> https://github.com/jfj-sys/Tasks/blob/main/HTTP.md
