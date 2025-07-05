@@ -11,7 +11,7 @@
 ### 阶段四考核
 1. Geek网站复刻 -> https://jfj-sys.github.io/geek.html/web.html
 ### 暑期考核
-1. CSS3学习笔记 -> https://github.com/jfj-sys/Tasks/blob/main/grid flex布局.md
+1. CSS3学习笔记 -> https://github.com/jfj-sys/Tasks/blob/main/grid%20flex%E5%B8%83%E5%B1%80.md
 2. JavaScript学习笔记 -> https://github.com/jfj-sys/Tasks/blob/main/JavaScript学习笔记.md
 3. 用js写网页 ->https://jfj-sys.github.io/dazu/index.html
 4. HTTP笔记 -> https://github.com/jfj-sys/Tasks/blob/main/HTTP.md
