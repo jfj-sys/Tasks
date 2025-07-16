@@ -13,6 +13,7 @@
 2. JavaScript学习笔记 -> https://github.com/jfj-sys/Tasks/blob/main/JavaScript学习笔记.md
 ### 暑期考核
 1. CSS3学习笔记 -> https://github.com/jfj-sys/Tasks/blob/main/grid%20flex%E5%B8%83%E5%B1%80.md
+2. javascript笔记 -> https://github.com/jfj-sys/Tasks/blob/main/javascript笔记.md
 3. 用js写网页 ->https://jfj-sys.github.io/dazu/index.html
 4. HTTP笔记 -> https://github.com/jfj-sys/Tasks/blob/main/HTTP.md
 5. 计算机基础知识笔记 -> https://github.com/jfj-sys/Tasks/blob/main/计算机基础知识.md
