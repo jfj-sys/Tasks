@@ -18,4 +18,5 @@
 4. HTTP笔记 -> https://github.com/jfj-sys/Tasks/blob/main/HTTP.md
 5. 计算机基础知识笔记 -> https://github.com/jfj-sys/Tasks/blob/main/计算机基础知识.md
 6. 防抖demo -> https://jfj-sys.github.io/%E9%98%B2%E6%8A%96demo.html
+7. 节流demo -> https://jfj-sys.github.io/节流 demo/throttle demo.html
    
