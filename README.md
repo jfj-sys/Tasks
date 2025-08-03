@@ -14,9 +14,10 @@
 ### 暑期考核
 1. CSS3学习笔记 -> https://github.com/jfj-sys/Tasks/blob/main/grid%20flex%E5%B8%83%E5%B1%80.md
 2. javascript笔记 -> https://github.com/jfj-sys/Tasks/blob/main/javascript笔记.md
-3. 用js写网页 ->https://jfj-sys.github.io/dazu/index.html
-4. HTTP笔记 -> https://github.com/jfj-sys/Tasks/blob/main/HTTP.md
-5. 计算机基础知识笔记 -> https://github.com/jfj-sys/Tasks/blob/main/计算机基础知识.md
-6. 防抖demo -> https://jfj-sys.github.io/%E9%98%B2%E6%8A%96demo.html
-7. 节流demo -> https://jfj-sys.github.io/%E8%8A%82%E6%B5%81%20demo/throttle%20demo.html
+3. js demo网页 ->https://jfj-sys.github.io/dazu/index.html
+4. js demo代码 -> https://github.com/jfj-sys/jfj-sys.github.io/tree/main/dazu
+5. HTTP笔记 -> https://github.com/jfj-sys/Tasks/blob/main/HTTP.md
+6. 计算机基础知识笔记 -> https://github.com/jfj-sys/Tasks/blob/main/计算机基础知识.md
+7. 防抖demo -> https://jfj-sys.github.io/%E9%98%B2%E6%8A%96demo.html
+8. 节流demo -> https://jfj-sys.github.io/%E8%8A%82%E6%B5%81%20demo/throttle%20demo.html
    
